@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Hypasos
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Hypasos/Hypasos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-  👋 Python
+-  👋 Java
+-  👋 C#
+-  👋 SQL Server
+-  👋 Microsoft Access
+-  👋 Unity
+-  👋 Android Studio
+-  👋 Eclipse
